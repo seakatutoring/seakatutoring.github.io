@@ -3,7 +3,7 @@ from pathlib import Path
 from urllib.parse import quote
 from xml.sax.saxutils import escape
 
-BASE_URL = "https://seakatutoring.github.io"
+BASE_URL = "https://seakatutoring.netlify.app"
 
 PAGES = [
     {"path": "/", "changefreq": "weekly", "priority": "1.0"},
