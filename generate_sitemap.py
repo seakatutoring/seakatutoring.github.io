@@ -9,7 +9,7 @@ PAGES = [
     {"path": "/", "changefreq": "weekly", "priority": "1.0"},
     {"path": "/counselling.html", "changefreq": "monthly", "priority": "0.8"},
     {"path": "/resources.html", "changefreq": "weekly", "priority": "0.8"},
-    {"path": "/tutoring companie.html", "changefreq": "monthly", "priority": "0.8"},
+    {"path": "/tutoring companies.html", "changefreq": "monthly", "priority": "0.8"},
 ]
 
 OUTPUT_FILE = Path("sitemap.xml")
